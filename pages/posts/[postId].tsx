@@ -1,6 +1,5 @@
 import MainLayout from "../../components/MainLayout";
 import axios from "axios";
-import Router from "next/router";
 
 export interface singlePost {
     id: number;
